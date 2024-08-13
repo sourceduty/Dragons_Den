@@ -16,6 +16,10 @@ The overall purpose of this custom GPT is to provide a realistic and immersive t
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
+<br>
+[Automated Business](https://github.com/sourceduty/Automated_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
